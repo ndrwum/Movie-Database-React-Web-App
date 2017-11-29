@@ -8,3 +8,4 @@ Download https://github.com/ndrwum/Movie-Database-React-Web-App.zip
 Unzip and open dist/index.html
 ```
 ## Screenshot
+![Alt text](/Capture.PNG?raw=true "Screenshot")
